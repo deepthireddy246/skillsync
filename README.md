@@ -130,6 +130,7 @@ UPLOAD_PATH=./uploads
 2. Add it to your `.env` file
 3. The AI features will be available once the key is configured
 
+https://github.com/deepthireddy246/skillsync/blob/main/output.png
 ## 📱 Features
 
 ### ✅ Implemented Features
