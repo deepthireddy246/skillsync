@@ -131,6 +131,7 @@ UPLOAD_PATH=./uploads
 3. The AI features will be available once the key is configured
 
 https://github.com/deepthireddy246/skillsync/blob/main/output.png
+<img src="https://github.com/deepthireddy246/skillsync/blob/main/output.png" alt="Banner" width="100%">
 ## 📱 Features
 
 ### ✅ Implemented Features
