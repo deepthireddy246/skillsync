@@ -190,13 +190,7 @@ The application is ready for testing with the following endpoints:
 4. **Add comprehensive testing**
 5. **Deploy to production**
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## 📄 License
 
